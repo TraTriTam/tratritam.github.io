@@ -14,7 +14,7 @@ firstName = "Trà Trí"
 lastName = "Tâm"
 phone = "0797873821"
 profileImage = "img/TraTriTam.png"
-sections = ["skills", "experience", "certifications", "contact"]
+sections = ["skills", "experience", "certifications", "blog", "contact"]
 vcardfields = [
     "name",
     "image",

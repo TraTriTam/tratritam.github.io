@@ -1,0 +1,56 @@
+[
+    {
+      "title": "Lập trình Socket TCP trong Java",
+      "date": "27/12/2025",
+      "summary": "Hướng dẫn tạo Server và Client giao tiếp qua giao thức TCP/IP sử dụng java.net.Socket.",
+      "tag": "Java Network"
+    },
+    {
+      "title": "Xử lý bất đồng bộ trong JavaScript",
+      "date": "26/12/2025",
+      "summary": "Tìm hiểu về Callback, Promise và Async/Await để xử lý các tác vụ không đồng bộ hiệu quả.",
+      "tag": "JavaScript"
+    },
+    {
+      "title": "Mô hình Client-Server và HTTP",
+      "date": "25/12/2025",
+      "summary": "Phân tích cấu trúc gói tin HTTP Request/Response và cách trình duyệt giao tiếp với Server.",
+      "tag": "Network"
+    },
+    {
+      "title": "Java Multithreading cơ bản",
+      "date": "24/12/2025",
+      "summary": "Cách tạo và quản lý luồng (Thread) trong Java để xử lý đa nhiệm, tối ưu hiệu năng ứng dụng.",
+      "tag": "Java"
+    },
+    {
+      "title": "DOM Manipulation với JavaScript",
+      "date": "23/12/2025",
+      "summary": "Các kỹ thuật thao tác với DOM để thay đổi nội dung, style và bắt sự kiện trên trang web.",
+      "tag": "JavaScript"
+    },
+    {
+      "title": "Serialization đối tượng trong Java",
+      "date": "22/12/2025",
+      "summary": "Cơ chế chuyển đổi đối tượng Java thành byte stream để lưu trữ hoặc truyền qua mạng.",
+      "tag": "Java IO"
+    },
+    {
+      "title": "ES6 Features: Arrow Function & Let/Const",
+      "date": "21/12/2025",
+      "summary": "Cập nhật các tính năng mới trong ES6 giúp code JavaScript ngắn gọn và an toàn hơn.",
+      "tag": "JavaScript"
+    },
+    {
+      "title": "Kiến trúc RESTful API là gì?",
+      "date": "20/12/2025",
+      "summary": "Các nguyên tắc thiết kế API chuẩn REST, sử dụng các phương thức GET, POST, PUT, DELETE.",
+      "tag": "Network"
+    },
+    {
+      "title": "Xây dựng ứng dụng Chat LAN bằng Java",
+      "date": "19/12/2025",
+      "summary": "Tổng hợp kiến thức Socket và Java Swing để xây dựng ứng dụng chat nội bộ đơn giản.",
+      "tag": "Project"
+    }
+  ]

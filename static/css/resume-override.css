@@ -243,3 +243,48 @@ a:hover {
 .about-card .fa-li {
     top: 5px; /* Căn chỉnh vị trí icon mũi tên/dấu tích */
 }
+/* --- BLOG SECTION --- */
+.blog-card {
+    background-color: #262626;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #333;
+    transition: all 0.3s;
+    display: flex;
+    flex-direction: column;
+}
+
+.blog-card:hover {
+    border-color: #e91e63;
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(233, 30, 99, 0.1);
+}
+
+.blog-title {
+    font-size: 1.2rem;
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.blog-summary {
+    font-size: 0.9rem;
+    color: #aaa;
+    flex-grow: 1; /* Đẩy nút xem thêm xuống đáy */
+    line-height: 1.5;
+}
+
+.badge-primary {
+    background-color: #e91e63 !important; /* Màu hồng đỏ chủ đạo */
+}
+
+.read-more {
+    color: #06b6d4;
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-top: 15px;
+}
+.read-more:hover {
+    color: #e91e63;
+    text-decoration: none;
+}
