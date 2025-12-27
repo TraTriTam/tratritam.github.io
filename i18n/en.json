@@ -1,0 +1,26 @@
+{
+    "about": {
+      "other": "Giới thiệu"
+    },
+    "skills": {
+      "other": "Kỹ năng"
+    },
+    "experience": {
+      "other": "Kinh nghiệm"
+    },
+    "certifications": {
+      "other": "Chứng chỉ"
+    },
+    "contact": {
+      "other": "Liên hệ"
+    },
+    "education": {
+      "other": "Học vấn"
+    },
+    "blog": {
+      "other": "Bài viết"
+    },
+    "creations": {
+      "other": "Dự án"
+    }
+  }

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Networking Basics",
+    "authority": "Cisco Networking Academy",
+    "date": "25/11/2025",
+    "description": "Chứng nhận hoàn thành khóa học Networking Basics, bao gồm các kiến thức về giao thức mạng, địa chỉ IPv4/IPv6, và cấu hình router không dây.",
+    "credentialId": "8cb965b2-0d02-4495-a2bf-7d5f65331d36",
+    "url": "#",
+    "image": "img/cisco-networking.png",
+    "skills": [
+      "Application Layer Services",
+      "IPv4 Addresses",
+      "Network Media",
+      "Network Types",
+      "Protocols Standards",
+      "Wireless Access"
+    ]
+  },
+  {
+    "name": "JavaScript Essentials 1",
+    "authority": "Cisco & OpenEDG JS Institute",
+    "date": "01/12/2025",
+    "description": "Chứng nhận hoàn thành khóa học JavaScript Essentials 1, bao gồm cú pháp cơ bản, biến, kiểu dữ liệu, toán tử, cấu trúc điều khiển và hàm.",
+    "credentialId": "b651005c-15d6-483a-876f-1688f80ab7f8",
+    "url": "#",
+    "image": "img/JavaScriptEssentials1.png",
+    "skills": [
+      "Data Types",
+      "Debugging",
+      "Control Flow",
+      "Functions",
+      "Loops",
+      "Operators",
+      "Recursion",
+      "User Interaction"
+    ]
+  },
+  {
+    "name": "JavaScript Essentials 2",
+    "authority": "Cisco & OpenEDG JS Institute",
+    "date": "23/12/2025",
+    "description": "Chứng nhận nâng cao về JavaScript, tập trung vào lập trình hướng đối tượng (OOP), quản lý mảng, xử lý ngoại lệ và các cấu trúc dữ liệu phức tạp.",
+    "credentialId": "7301fafd-a13a-45f8-bbfe-1a17141fd390",
+    "url": "#",
+    "image": "img/JavaScriptEssentials2.png",
+    "skills": [
+      "OOP & Inheritance",
+      "Array Techniques",
+      "Deep Cloning",
+      "Object Methods",
+      "Prototypes",
+      "Set and Map",
+      "Testing Techniques"
+    ]
+  }
+]

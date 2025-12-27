@@ -1,0 +1,20 @@
+[
+  {
+    "grouping": "Kỹ năng lập trình & Công cụ",
+    "skills": [
+      "Java",
+      "JavaScript",
+      "Network / AWS",
+      "Database"
+    ]
+  },
+  {
+    "grouping": "Quy trình làm việc & Kỹ năng mềm",
+    "skills": [
+      "Làm việc nhóm",
+      "Thuyết trình",
+      "Viết báo cáo",
+      "Chủ động hỗ trợ"
+    ]
+  }
+]

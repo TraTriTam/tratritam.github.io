@@ -1,0 +1,63 @@
+title = "Trà Trí Tâm"
+baseURL = "https://github.com/TraTriTam/my-cv"
+theme = "hugo-resume"
+languageCode = "vi-vn"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Tây Ninh, VN"
+email = "tamtra2004@gmail.com"
+firstName = "Trà Trí"
+lastName = "Tâm"
+phone = "0797873821"
+profileImage = "img/Vương Lâm.png"
+sections = ["skills", "experience", "certifications", "contact"]
+vcardfields = [
+    "name",
+    "image",
+    "org",
+    "email",
+    "workemail",
+    "phone",
+    "url",
+    "title"
+]
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+# --- PHẦN LINK MẠNG XÃ HỘI ĐÃ SỬA ---
+
+[[params.social]]
+name = "Facebook"
+icon = "fab fa-facebook-f"  
+url = "https://www.facebook.com/tam.tra.724394/"
+
+[[params.social]]
+name = "Github"
+icon = "fab fa-github"      
+url = "https://github.com/TraTriTam"
+
+# ------------------------------------
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
+
+[mediaTypes]
+  [mediaTypes."text/vcard"]
+    suffixes = ["vcf"]
+
+[outputFormats]
+  [outputFormats.VCard]
+    mediaType = "text/vcard"
+    baseName = "contact"
+    isPlainText = true
+    notAlternative = true

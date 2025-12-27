@@ -1,0 +1,30 @@
+
+BEGIN:VCARD
+VERSION:4.0
+
+
+N:Tâm;Trà Trí;;;
+FN:Trà Trí Tâm
+
+
+TEL;TYPE=WORK,VOICE:0797873821
+
+
+EMAIL;TYPE=INTERNET,PREF:tamtra2004@gmail.com
+
+
+EMAIL;TYPE=INTERNET,WORK:
+
+
+PHOTO;TYPE=JPG;VALUE=URI:http://localhost:1313/img/Vương Lâm.png
+
+
+ORG:Trường Đại học Công nghệ TP.HCM (HUTECH)
+
+
+TITLE:
+
+
+URL:http://localhost:1313/
+
+END:VCARD
