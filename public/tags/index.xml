@@ -37,7 +37,7 @@
       <description></description>
     </item>
     <item>
-      <title>REST APIs</title>
+      <title>Rest APIs</title>
       <link>http://localhost:1313/my-cv/tags/rest-apis/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       <guid>http://localhost:1313/my-cv/tags/rest-apis/</guid>
@@ -137,36 +137,8 @@
     <item>
       <title>Apache</title>
       <link>http://localhost:1313/my-cv/tags/apache/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/my-cv/tags/apache/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Redirect</title>
-      <link>http://localhost:1313/my-cv/tags/redirect/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/my-cv/tags/redirect/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rewrite</title>
-      <link>http://localhost:1313/my-cv/tags/rewrite/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/my-cv/tags/rewrite/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ssl</title>
-      <link>http://localhost:1313/my-cv/tags/ssl/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/my-cv/tags/ssl/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web Development</title>
-      <link>http://localhost:1313/my-cv/tags/web-development/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/my-cv/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
@@ -219,10 +191,38 @@
       <description></description>
     </item>
     <item>
+      <title>Redirect</title>
+      <link>http://localhost:1313/my-cv/tags/redirect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-cv/tags/redirect/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rewrite</title>
+      <link>http://localhost:1313/my-cv/tags/rewrite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-cv/tags/rewrite/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Spring</title>
       <link>http://localhost:1313/my-cv/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/my-cv/tags/spring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssl</title>
+      <link>http://localhost:1313/my-cv/tags/ssl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-cv/tags/ssl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:1313/my-cv/tags/web-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-cv/tags/web-development/</guid>
       <description></description>
     </item>
   </channel>
