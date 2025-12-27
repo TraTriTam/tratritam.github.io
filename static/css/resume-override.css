@@ -211,3 +211,35 @@ a:hover {
 .fa-li.text-primary {
     color: #e91e63 !important; /* Bắt buộc màu hồng đỏ */
 }
+/* --- TRANG TRÍ PHẦN ABOUT (GIỚI THIỆU) --- */
+
+/* Khung thẻ Mục tiêu & Cam kết */
+.about-card {
+    background-color: #262626;  /* Nền xám tối (Dark Gray) */
+    color: #e0e0e0;             /* Chữ màu trắng xám dễ đọc */
+    padding: 25px;
+    border-radius: 10px;        /* Bo góc nhẹ */
+    border-left: 4px solid #e91e63; /* Viền trái màu Hồng Đỏ làm điểm nhấn */
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+/* Hiệu ứng khi di chuột vào thẻ */
+.about-card:hover {
+    transform: translateY(-5px); /* Bay lên nhẹ */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+/* Tiêu đề trong thẻ (Mục tiêu, Cam kết) */
+.about-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    font-weight: 700;
+    border-bottom: 1px solid #444; /* Gạch chân mờ */
+    padding-bottom: 10px;
+}
+
+/* Chỉnh lại các icon danh sách cho đẹp */
+.about-card .fa-li {
+    top: 5px; /* Căn chỉnh vị trí icon mũi tên/dấu tích */
+}

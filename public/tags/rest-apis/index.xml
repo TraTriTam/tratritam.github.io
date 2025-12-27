@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rest APIs on Trà Trí Tâm</title>
+    <title>REST APIs on Trà Trí Tâm</title>
     <link>http://localhost:1313/my-cv/tags/rest-apis/</link>
-    <description>Recent content in Rest APIs on Trà Trí Tâm</description>
+    <description>Recent content in REST APIs on Trà Trí Tâm</description>
     <generator>Hugo</generator>
     <language>vi-vn</language>
     <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
