@@ -111,3 +111,41 @@ a:hover {
         border: 5px solid #e91e63 !important; 
     }
 }
+/* --- TRANG TRÍ MỤC KINH NGHIỆM (Experience) --- */
+
+/* 1. Tạo khung thẻ bài cho mỗi công việc */
+.experience-card {
+    background-color: #262626;  /* Nền xám tối */
+    border-radius: 12px;        /* Bo góc mềm mại */
+    padding: 25px;              /* Khoảng cách bên trong */
+    border-left: 5px solid #e91e63; /* Điểm nhấn: Viền trái màu Hồng Đỏ */
+    transition: all 0.3s ease;  /* Hiệu ứng mượt */
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2); /* Đổ bóng nhẹ */
+}
+
+/* 2. Hiệu ứng khi di chuột vào: Nổi lên và sáng hơn */
+.experience-card:hover {
+    transform: translateX(10px); /* Dịch chuyển nhẹ sang phải */
+    background-color: #333;      /* Nền sáng hơn chút */
+    box-shadow: 0 5px 20px rgba(233, 30, 99, 0.3); /* Bóng màu hồng đỏ */
+}
+
+/* 3. Trang trí nút thời gian (Badge) */
+.experience-badge {
+    display: inline-block;
+    padding: 8px 15px;
+    background-color: rgba(233, 30, 99, 0.1); /* Nền hồng nhạt trong suốt */
+    color: #e91e63;       /* Chữ màu hồng đỏ */
+    border: 1px solid #e91e63;
+    border-radius: 50px;  /* Bo tròn hình viên thuốc */
+    font-weight: 600;
+    font-size: 0.9rem;
+    min-width: 140px;
+    text-align: center;
+}
+
+/* 4. Màu chữ mô tả cho dễ đọc */
+.text-muted {
+    color: #b0b0b0 !important; /* Xám sáng */
+    line-height: 1.6; /* Giãn dòng cho thoáng */
+}
