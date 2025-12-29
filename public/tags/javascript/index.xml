@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JavaScript on Trà Trí Tâm</title>
+    <title>Javascript on Trà Trí Tâm</title>
     <link>http://localhost:1313/tags/javascript/</link>
-    <description>Recent content in JavaScript on Trà Trí Tâm</description>
+    <description>Recent content in Javascript on Trà Trí Tâm</description>
     <generator>Hugo</generator>
     <language>vi-vn</language>
     <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
