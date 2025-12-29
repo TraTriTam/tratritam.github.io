@@ -8,7 +8,8 @@
   {
     "position": "Freelancer / Tự Nghiên Cứu",
     "company": "Dự án Cá nhân",
-    "details": "Tự xây dựng Blog cá nhân sử dụng Hugo & GitHub Pages. Phát triển ứng dụng Chat LAN bằng Java Socket. Tham gia các khóa học chuyên sâu của Cisco (CCNA).",
+    "details": "Tự xây dựng Blog cá nhân sử dụng Hugo & GitHub Pages. Phát triển ứng dụng Chat LAN bằng Java Socket. Tham gia các khóa học chuyên sâu của Cisco (CCNA).<br><br><b>Dự án: Thiết kế hệ thống cân bằng tải trên AWS với ELB và Auto Scaling</b><br>Vai trò: Theo dõi quá trình chạy, phân tích log và viết báo cáo kỹ thuật.",
+    "image": "img/aws-lb-diagram.png",
     "time": "2024 - Nay"
   }
 ]

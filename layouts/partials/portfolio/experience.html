@@ -4,25 +4,22 @@
 
     {{ range .Data.experience }}
     <div class="resume-item d-flex flex-column flex-md-row mb-5 experience-card">
-      
       <div class="resume-content mr-auto">
-        <h3 class="mb-2 text-white">{{ .position }}</h3>
+        <h3 class="mb-0 text-white">{{ .position }}</h3>
+        <div class="subheading mb-3" style="color: #e91e63;">{{ .company }}</div>
         
-        <div class="subheading mb-3" style="color: #e91e63;">
-            <i class="fas fa-building mr-2"></i>{{ .company }}
-        </div>
-        
-        <p class="text-muted" style="font-size: 1.1rem;">
-            {{ .details }}
-        </p>
-      </div>
+        <p>{{ .details | safeHTML }}</p>
 
-      <div class="resume-date text-md-right">
-        <span class="experience-badge">
-            <i class="fas fa-calendar-alt mr-2"></i>{{ .time }}
-        </span>
+        {{ if .image }}
+        <div class="mt-4">
+          <img src="{{ .image | relURL }}" alt="Sơ đồ dự án" class="img-fluid" style="max-width: 90%; border-radius: 8px; border: 2px solid #e91e63;">
+        </div>
+        {{ end }}
+        
       </div>
-      
+      <div class="resume-date text-md-right">
+        <span class="text-primary">{{ .time }}</span>
+      </div>
     </div>
     {{ end }}
   </div>
