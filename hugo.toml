@@ -13,7 +13,7 @@ email = "tamtra2004@gmail.com"
 firstName = "Trà Trí"
 lastName = "Tâm"
 phone = "0797873821"
-profileImage = "img/TraTriTam.png"
+profileImage = "img/TamTraTri.png"
 sections = ["skills", "experience", "certifications", "blog", "contact"]
 vcardfields = [
     "name",
